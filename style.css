@@ -7,7 +7,18 @@ a {
 }
 
 ul {
-    list-style-type: none;
+    text-align: left;
+    list-style-position: inside;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.ingredients, .directions {
+    display: inline-block;
+
 }
 
 .spaghetti, .tacos, .fajitas, .casserole {
