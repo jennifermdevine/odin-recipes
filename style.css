@@ -9,7 +9,7 @@ ul {
 
 .spaghetti, .tacos, .fajitas {
     width: 300px;
-    height: 200px;
+    height: 300px;
 }
 
 .odin {
@@ -20,7 +20,7 @@ ul {
     display: inline-block;
     background-color: transparent;
     width: 300px;
-    height: 200px;
+    height: 300px;
     border: 1px solid rgb(209, 146, 70);
     perspective: 1000px;
 }
